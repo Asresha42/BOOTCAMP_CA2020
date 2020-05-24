@@ -1,0 +1,14 @@
+Branching and Merging 
+
+A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master . As you start making commits, you're given a master branch that points to the last commit you made. Every time you commit, the master branch pointer moves forward automatically. Merging in git is a way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch. 
+
+What is an Elastic IP and how it is different from Dynamic IP?
+
+Elastic IP addresses are static IP addresses designed for dynamic cloud computing. Elastic IP addresses allow you to mask instance or availability zone failures by programmatically remapping your public IP addresses to any instance associated with your account whreas with dynamic IP you cannot.
+
+
+What is the Client Server Model, Explain in detail?
+
+The client-server model describes how a server provides resources and services to one or more clients. Examples of servers include web servers, mail servers, and file servers. Each of these servers provide resources to client devices, such as desktop computers, laptops, tablets, and smartphones. Most servers have a one-to-many relationship with clients, meaning a single server can provide resources to multiple clients at one time.When a client requests a connection to a server, the server can either accept or reject the connection. If the connection is accepted, the server establishes and maintains a connection with the client over a specific protocol. For example, an email client may request an SMTP connection to a mail server in order to send a message. The SMTP application on the mail server will then request authentication from the client, such as the email address and password. If these credentials match an account on the mail server, the server will send the email to the intended recipient.Online multiplayer gaming also uses the client-server model.While Internet servers typically provide connections to multiple clients at a time, each physical machine can only handle so much traffic. Therefore, popular online services distribute clients across multiple physical servers, using a technique called distributed computing. In most cases, it does not matter which specific machine users are connected to, since the servers all provide the same service.
+
+
