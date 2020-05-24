@@ -1,0 +1,38 @@
+Day 1 
+
+•	What is Cache Memory?
+
+It is an extremely fast memory type that acts as a buffer between RAM and the CPU. It holds requested data and instructions so that they are immediately available to the CPU when needed. helps to reduce the time to access the data from the main memory
+
+•	What is Disk Management? 
+
+It allows users to view and manage the drives that are installed in their computer and the partitions associated with those drives. It displays the file system, status, capacity and how much space does your drive contain. 
+
+•	Cache vs RAM?
+
+Cache 
+1.	Read/Write rate memory is faster
+2.	Used to save more frequent data.
+3.	Internal and external both can be in Cache memory.
+
+RAM
+1.	Read/Write rate memory is slower than Cache Memory. 
+2.	Used to store less redundant data.
+3.	RAM is internal.
+
+•	HDD vs SSD?
+
+HDD 
+1.	It has moving parts 
+2.	It has long term memory 
+3.	Slower compared to SSD
+4.	Read/ Write to access the data
+
+SSD
+1.	It doesn't have moving parts 
+2.	It has short term memory 
+3.	New and faster type of device 
+4.	Instantly accessible memory chip
+
+
+
